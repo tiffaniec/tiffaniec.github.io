@@ -1,0 +1,48 @@
+h1{
+  color: pink;
+  font-family: 'Racing Sans One', cursive;
+  font-size: 60px;
+  text-align: center;
+}
+h2{
+  color:#f9dc68; /*light yellow*/
+  font-family: 'Racing Sans One', cursive;
+  font-size: 40px;
+}
+h3{
+  color: pink;
+}
+h4{
+  color:#f9dc68; /*darker light yellow*/
+  font-size:20px;
+}
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #e5e6ff;
+  text-align: center;
+  color: #ff7f95;
+}
+
+a:link{
+  color:#6456ff;
+}
+a:visited{
+  color: #a39bff;
+}
+
+
+#subtitle{
+  color: #ff7f95;
+  text-align: center;
+
+}
+
+#Pro{
+  color:#ff7f95; #rosy color
+}
+#Links{
+  color: #547cf9; #periwinkle blue
+}
+#bio{
+  color: #ff7f95;
+}
